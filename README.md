@@ -1,4 +1,4 @@
-# Scraping
+# Article_Scraping
 
 URL_Scraping.py:
 ホームページから指定したURLを取得し、csvファイルにindex/日付/title/URLの形式で書き込みます。
