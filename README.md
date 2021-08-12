@@ -14,6 +14,5 @@ URL_Scraping.pyで取得したURLにアクセスして、そのURLに記述さ�
 
 <br>
 ＜実行用ライブラリ＞<br>
-・bs4 
-・pandas
+・bs4 ，pandas
 
