@@ -13,6 +13,11 @@ URL_Scraping.pyで取得したURLにアクセスして、そのURLに記述さ�
 ※管理しやすようにファイル名には、プログラムを実行した日付が必ず入力されます。
 
 <br>
+＜実行コマンド＞※同じフォルダ内で実行 <br>
+1. python3 URL_scraping.py <br>
+2. python3 Article_scraping.py <br>
+
+<br>
 ＜実行用ライブラリ＞<br>
 ・bs4 ，pandas
 
