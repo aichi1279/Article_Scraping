@@ -2,7 +2,7 @@
 各プログラムの説明を下記に記す。
 <br>
 1. URL_scraping.py:<br>
-Yahoo経済新聞ホームページから最新記事15本のURLを取得し、csvファイルにindex-日付-title-URLの形式で書き込みます。
+Yahoo経済新聞ホームページ(https://news.yahoo.co.jp/topics/business)から最新記事15本のURLを取得し、csvファイルにindex-日付-title-URLの形式で書き込みます。
 ファイル名は自動的に「実行された日時.csv」で保存されます。
 <br>
 
