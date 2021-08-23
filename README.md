@@ -10,7 +10,7 @@
     <dl>
       <dt>1.URL_scraping.py:</dt>
       <dd>Yahoo経済新聞ホームページから最新記事15本のURLを取得し、csvファイルにindex-日付-title-URLの形式で書き込みます。<br>
-          ファイル名は自動的に「実行された日時.csv」で保存されます。</dd>
+          ファイル名は自動的に「本プログラムが実行された日時.csv」で保存されます。</dd>
       <dt>2.Article_scraping.py:</dt>
       <dd>URL_Scraping.pyで取得したURLにアクセスして、そのURLに記述された記事内容を取得する。<br>
           その後、csvファイルにindex/title/記事内容の形式で書き込まれます。<br>
